@@ -6,7 +6,7 @@
 ## Phylogenetic relationships of hominoidea family using the ape library
   
 <p align="center">
-<img src="phylo.png" width="100%" alt="" class="center" align="middle" alt="https://pasa.org">
+<img src="philo.png" width="100%" alt="" class="center" align="middle" alt="https://pasa.org">
 </center>
 <p>
   
